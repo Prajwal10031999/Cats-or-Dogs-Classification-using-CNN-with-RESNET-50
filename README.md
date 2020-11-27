@@ -1,4 +1,4 @@
-# Cats-or-Dogs-using-CNN-with-Transfer-Learning
+# Cats-or-Dogs-using-CNN-with-RESNET-50
 A deep learning model to classify between dogs and cats using transfer learning with RESNET50 <br />
 
 Libraries used : <br />
